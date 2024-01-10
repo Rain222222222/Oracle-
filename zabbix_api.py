@@ -32,13 +32,7 @@ class ZabbixApi(object):
 
     def get_system_disks(self, user_address):
         try:
-            ip_mapping = {
-                '10.5.2.3': '10.5.2.9',
-                '10.5.2.6': '10.5.2.14',
-                '10.6.74.25': '10.6.74.21',
-                '10.6.170.88': '10.6.170.86',
-                '10.6.79.65': '10.6.79.61'
-            }
+            ip_mapping = {}
 
             host_ip = ip_mapping.get(user_address, user_address)
 
