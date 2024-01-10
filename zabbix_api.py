@@ -36,7 +36,6 @@ class ZabbixApi(object):
 
             host_ip = ip_mapping.get(user_address, user_address)
 
-            # group_names = ['操作系统-测试环境', '操作系统-生产业务相关', '操作系统-生产办公相关', '操作系统-生产运维相关']
             group_ids = []
 
             # 获取指定名称的主机群组的ID
