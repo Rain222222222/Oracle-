@@ -42,6 +42,13 @@
 
 Rain
 WX： A-Rainbow8000
+
 如果您遇到任何问题或有建议，请在GitHub上创建问题或提交拉取请求。我们欢迎您的贡献！
 
 巡检愉快！
+
+## 报告截图(部分)
+![WechatIMG18810](https://github.com/Rain222222222/Oracle-/assets/130946945/0defa220-0a5d-4549-a828-5b7895a761a0)
+![image](https://github.com/Rain222222222/Oracle-/assets/130946945/4523117b-2063-4035-a89f-816295dbc348)
+![image](https://github.com/Rain222222222/Oracle-/assets/130946945/5ec5f07f-f069-4f4b-9c26-b7a229f8c4f1)
+![image](https://github.com/Rain222222222/Oracle-/assets/130946945/2ba64381-0ecd-42b9-ae77-028e37678a35)
